@@ -1,5 +1,5 @@
 {
-  "name": "switch-env",
+  "name": "switch-dotenv",
   "version": "1.0.0",
   "description": "switch .env file.",
   "bin": {

@@ -4,7 +4,7 @@ A command line tool that can switch the contents of the `.env` file under the di
 
 ---
 ## INSTALL
-`npm i -g switch-env`
+`npm i -g switch-dotenv`
 
 ## USAGE
 
