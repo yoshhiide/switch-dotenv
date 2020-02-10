@@ -1,0 +1,13 @@
+{
+  "name": "switch-env",
+  "version": "1.0.0",
+  "description": "switch .env file.",
+  "bin": {
+    "swenv": "index.js"
+  },
+  "author": "NABEYAMA Yoshihide",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.0.4"
+  }
+}
