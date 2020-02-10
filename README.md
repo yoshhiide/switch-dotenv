@@ -1,4 +1,4 @@
-# switch-env
+# switch-dotenv
 
 A command line tool that can switch the contents of the `.env` file under the directory.
 
