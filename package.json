@@ -1,12 +1,20 @@
 {
   "name": "switch-dotenv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "switch .env file.",
   "bin": {
     "swenv": "index.js"
   },
   "author": "NABEYAMA Yoshihide",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshhiide/switch-dotenv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yoshhiide/switch-dotenv/issues"
+  },
+  "homepage": "https://github.com/yoshhiide/switch-dotenv#readme",
   "dependencies": {
     "inquirer": "^7.0.4"
   }
